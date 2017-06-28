@@ -167,6 +167,7 @@ a:hover {
   bottom: 50%;
 }
 .grid-container a:hover {
+  color: #e8e8e8;
   text-decoration: none;
   border-bottom: 2px solid white;
 }
@@ -286,7 +287,7 @@ footer p {
     clear: both;
   }
   .grid-content-inside p {
-    color: #000;
+    color: #313131;
     padding-top: 2em;
   }
   .grid-description {
@@ -296,7 +297,7 @@ footer p {
     top: -9%;
   }
   .grid-container a {
-    color: #000;
+    color: #313131;
     text-decoration: none;
     border-bottom: 2px solid rgba(0,0,0,0);
   }
